@@ -1,0 +1,13 @@
+<suite name="Any Name" >
+
+ <test name="Any Name" >
+
+ <classes> 
+ 
+ <class name="com.pdfbox.ReadPdfWithURL" />
+
+ </classes>
+
+ </test>
+
+ </suite>
